@@ -1,0 +1,334 @@
+[
+  {
+    "path": "index.html",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/",
+    "bytes": 5362,
+    "content_type": "text/html"
+  },
+  {
+    "path": "contact-us.html",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/contact-us.html",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180815183638id_/http://sospensacola.com/contact-us.html",
+    "bytes": 4590,
+    "content_type": "text/html"
+  },
+  {
+    "path": "links.html",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/links.html",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180815181909id_/http://sospensacola.com/links.html",
+    "bytes": 5673,
+    "content_type": "text/html"
+  },
+  {
+    "path": "our-story-pensacola-economic-impact.html",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/our-story-pensacola-economic-impact.html",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180815173218id_/http://sospensacola.com/our-story-pensacola-economic-impact.html",
+    "bytes": 7236,
+    "content_type": "text/html"
+  },
+  {
+    "path": "our-story-pensacola-environmental-impact.html",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/our-story-pensacola-environmental-impact.html",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180815170220id_/http://sospensacola.com/our-story-pensacola-environmental-impact.html",
+    "bytes": 7163,
+    "content_type": "text/html"
+  },
+  {
+    "path": "our-story-pensacola-international-impact.html",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/our-story-pensacola-international-impact.html",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180815185802id_/http://sospensacola.com/our-story-pensacola-international-impact.html",
+    "bytes": 5869,
+    "content_type": "text/html"
+  },
+  {
+    "path": "our-story.html",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/our-story.html",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180815190346id_/http://sospensacola.com/our-story.html",
+    "bytes": 7828,
+    "content_type": "text/html"
+  },
+  {
+    "path": "partners.html",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/partners.html",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180815181010id_/http://sospensacola.com/partners.html",
+    "bytes": 6357,
+    "content_type": "text/html"
+  },
+  {
+    "path": "PDF/MadeForTrade-FINAL-Single-1.pdf",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/PDF/MadeForTrade-FINAL-Single-1.pdf",
+    "status": "missing",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "path": "css/960.css",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/css/960.css",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190118080105id_/http://sospensacola.com/css/960.css",
+    "bytes": 9989,
+    "content_type": "text/css"
+  },
+  {
+    "path": "css/design2.css",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/css/design2.css",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190116215813id_/http://sospensacola.com/css/design2.css",
+    "bytes": 4773,
+    "content_type": "text/css"
+  },
+  {
+    "path": "css/nivo-slider.css",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/css/nivo-slider.css",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190118052335id_/http://sospensacola.com/css/nivo-slider.css",
+    "bytes": 1601,
+    "content_type": "text/css"
+  },
+  {
+    "path": "css/reset.css",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/css/reset.css",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190109073303id_/http://sospensacola.com/css/reset.css",
+    "bytes": 2062,
+    "content_type": "text/css"
+  },
+  {
+    "path": "favico.gif",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/favico.gif",
+    "status": "missing",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "path": "favicon.ico",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/favicon.ico",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190609233855id_/http://www.sospensacola.com/favicon.ico",
+    "bytes": 275,
+    "content_type": "image/x-icon"
+  },
+  {
+    "path": "images/PPUA1.png",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/PPUA1.png",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180930054522id_/http://sospensacola.com/images/PPUA1.png",
+    "bytes": 172611,
+    "content_type": "image/png"
+  },
+  {
+    "path": "images/facebook-cir.png",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/facebook-cir.png",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190109210538id_/http://sospensacola.com/images/facebook-cir.png",
+    "bytes": 1355,
+    "content_type": "image/png"
+  },
+  {
+    "path": "images/facebook.png",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/facebook.png",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180930133434id_/http://sospensacola.com/images/facebook.png",
+    "bytes": 1082,
+    "content_type": "image/png"
+  },
+  {
+    "path": "images/header-top-logo2.png",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/header-top-logo2.png",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190111044135id_/http://sospensacola.com/images/header-top-logo2.png",
+    "bytes": 49962,
+    "content_type": "image/png"
+  },
+  {
+    "path": "images/img-busy-port.jpg",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/img-busy-port.jpg",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180930174735id_/http://sospensacola.com/images/img-busy-port.jpg",
+    "bytes": 59720,
+    "content_type": "image/jpeg"
+  },
+  {
+    "path": "images/img-crane-tugs.jpg",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/img-crane-tugs.jpg",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180930100754id_/http://sospensacola.com/images/img-crane-tugs.jpg",
+    "bytes": 52046,
+    "content_type": "image/jpeg"
+  },
+  {
+    "path": "images/img-port-at-night.jpg",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/img-port-at-night.jpg",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180930122241id_/http://sospensacola.com/images/img-port-at-night.jpg",
+    "bytes": 48273,
+    "content_type": "image/jpeg"
+  },
+  {
+    "path": "images/links.png",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/links.png",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180930114724id_/http://sospensacola.com/images/links.png",
+    "bytes": 455802,
+    "content_type": "image/png"
+  },
+  {
+    "path": "images/ppua.jpg",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/ppua.jpg",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180930053430id_/http://sospensacola.com/images/ppua.jpg",
+    "bytes": 7608,
+    "content_type": "image/jpeg"
+  },
+  {
+    "path": "images/propeller-club-logo.png",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/propeller-club-logo.png",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180930070638id_/http://sospensacola.com/images/propeller-club-logo.png",
+    "bytes": 36540,
+    "content_type": "image/png"
+  },
+  {
+    "path": "images/pyp-logo.png",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/pyp-logo.png",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180930111057id_/http://sospensacola.com/images/pyp-logo.png",
+    "bytes": 22966,
+    "content_type": "image/png"
+  },
+  {
+    "path": "images/rotate-info-ecological.jpg",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/rotate-info-ecological.jpg",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190106110345id_/http://sospensacola.com/images/rotate-info-ecological.jpg",
+    "bytes": 41447,
+    "content_type": "image/jpeg"
+  },
+  {
+    "path": "images/rotate-info-economical.jpg",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/rotate-info-economical.jpg",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190118040529id_/http://sospensacola.com/images/rotate-info-economical.jpg",
+    "bytes": 63022,
+    "content_type": "image/jpeg"
+  },
+  {
+    "path": "images/rotate-info-international.jpg",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/rotate-info-international.jpg",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190102015210id_/http://sospensacola.com/images/rotate-info-international.jpg",
+    "bytes": 63588,
+    "content_type": "image/jpeg"
+  },
+  {
+    "path": "images/sidebar-points.png",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/sidebar-points.png",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20180930102349id_/http://sospensacola.com/images/sidebar-points.png",
+    "bytes": 660,
+    "content_type": "image/png"
+  },
+  {
+    "path": "pdf/FloridaTradeandLogisticsStudy_December20102.pdf",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/pdf/FloridaTradeandLogisticsStudy_December20102.pdf",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20181230170753id_/http://sospensacola.com/pdf/FloridaTradeandLogisticsStudy_December20102.pdf",
+    "bytes": 3942961,
+    "content_type": "application/pdf"
+  },
+  {
+    "path": "pdf/FloridaTradeandLogisticsStudy_FinalTechnicalReport_March2011.pdf",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/pdf/FloridaTradeandLogisticsStudy_FinalTechnicalReport_March2011.pdf",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20181230153440id_/http://sospensacola.com/pdf/FloridaTradeandLogisticsStudy_FinalTechnicalReport_March2011.pdf",
+    "bytes": 7862489,
+    "content_type": "application/pdf"
+  },
+  {
+    "path": "pdf/panama canal expansion impact on usa ports summary jun 2012.pdf",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/pdf/panama canal expansion impact on usa ports summary jun 2012.pdf",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20181230153942id_/http://sospensacola.com/pdf/panama%20canal%20expansion%20impact%20on%20usa%20ports%20summary%20jun%202012.pdf",
+    "bytes": 9585243,
+    "content_type": "application/pdf"
+  },
+  {
+    "path": "scripts/jquery.nivo.slider.pack.js",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/scripts/jquery.nivo.slider.pack.js",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190118062508id_/http://sospensacola.com/scripts/jquery.nivo.slider.pack.js",
+    "bytes": 15851,
+    "content_type": "application/javascript"
+  },
+  {
+    "path": "scripts/themes/default/default.css",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/scripts/themes/default/default.css",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190118080109id_/http://sospensacola.com/scripts/themes/default/default.css",
+    "bytes": 1462,
+    "content_type": "text/css"
+  },
+  {
+    "path": "tradenews.html",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/tradenews.html",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20181230152516id_/http://www.sospensacola.com/tradenews.html",
+    "bytes": 8277,
+    "content_type": "text/html"
+  },
+  {
+    "path": "images/design-globe-bg.gif",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/design-globe-bg.gif",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190129205607id_/http://sospensacola.com/images/design-globe-bg.gif",
+    "bytes": 16385,
+    "content_type": "image/gif"
+  },
+  {
+    "path": "images/header-top-rivits-bottom.png",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/header-top-rivits-bottom.png",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190201183616id_/http://sospensacola.com/images/header-top-rivits-bottom.png",
+    "bytes": 2518,
+    "content_type": "image/png"
+  },
+  {
+    "path": "images/header-top-rivits.png",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/images/header-top-rivits.png",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190126045615id_/http://sospensacola.com/images/header-top-rivits.png",
+    "bytes": 2525,
+    "content_type": "image/png"
+  },
+  {
+    "path": "scripts/themes/default/arrows.png",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/scripts/themes/default/arrows.png",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190204064814id_/http://sospensacola.com/scripts/themes/default/arrows.png",
+    "bytes": 824,
+    "content_type": "image/png"
+  },
+  {
+    "path": "scripts/themes/default/bullets.png",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/scripts/themes/default/bullets.png",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190208074941id_/http://sospensacola.com/scripts/themes/default/bullets.png",
+    "bytes": 1281,
+    "content_type": "image/png"
+  },
+  {
+    "path": "scripts/themes/default/loading.gif",
+    "requested_archive": "https://web.archive.org/web/20190525200100id_/http://sospensacola.com/scripts/themes/default/loading.gif",
+    "status": "recovered",
+    "resolved_archive": "https://web.archive.org/web/20190202010827id_/http://sospensacola.com/scripts/themes/default/loading.gif",
+    "bytes": 1737,
+    "content_type": "image/gif"
+  }
+]
